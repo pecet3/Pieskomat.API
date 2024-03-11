@@ -1,0 +1,6 @@
+@Pieskomat.API_HostAddress = http://localhost:5286
+
+GET {{Pieskomat.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

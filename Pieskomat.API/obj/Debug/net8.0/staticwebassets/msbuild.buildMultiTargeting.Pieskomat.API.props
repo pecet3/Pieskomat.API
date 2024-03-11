@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pieskomat.API.props" />
+</Project>
