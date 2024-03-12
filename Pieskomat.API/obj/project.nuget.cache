@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MVQOmqhkafc4rc1IWe8/DAia9ZBmRGx1DYPqIJ4vnnOlmyWwwE6PBdMLuC6QqHK1rupqJ9+2bP/j1sA4tauV4w==",
+  "dgSpecHash": "uOunQe4NWFJOYVd5VjbKW2T7/wm0gND0RUMxyjKr6IKn/birwqo613OTg8Do2IM18Pflvv203ynTIu2bOGeaxg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
+  "projectFilePath": "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jakub\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "C:\\Users\\Jakub\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
