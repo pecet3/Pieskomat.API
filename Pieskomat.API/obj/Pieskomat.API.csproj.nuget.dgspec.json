@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj": {}
+    "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj": {
+    "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
+        "projectUniqueName": "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
         "projectName": "Pieskomat.API",
-        "projectPath": "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
+        "projectPath": "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
         "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\obj\\",
+        "outputPath": "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,9 +44,17 @@
               "target": "Package",
               "version": "[8.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "MinimalApis.Extensions": {
               "target": "Package",
               "version": "[0.11.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
