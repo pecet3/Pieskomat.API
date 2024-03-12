@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pieskomat.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+437b008bc08e9496a6c21c2d8d9d1b18e4987717")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76a962e88fe2a488712ef81aabeb1482d4d210e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pieskomat.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pieskomat.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
