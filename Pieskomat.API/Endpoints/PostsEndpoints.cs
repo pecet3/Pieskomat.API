@@ -9,7 +9,7 @@ public static class PostsEndpoints
         group.MapGet("/", () =>
         {
             return Results.Ok();
-        });
+        }).RequireAuthorization();
 
         return group;
     }
