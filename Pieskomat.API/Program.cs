@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 var connString = builder.Configuration.GetConnectionString("Pieskomat");
 
-builder.Services.AddDbContext<DataContext>(options => options.UseSqlServer(connString));
+builder.Services.AddDbContext<DataContext>(options => options.UseNpgsql(connString));
 
 builder.Services.AddAuthorization();
 
