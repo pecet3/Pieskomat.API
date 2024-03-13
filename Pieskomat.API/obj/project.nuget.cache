@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nFSe1IOwosEuuTJWNwaqX1n3P6xZqYy8bC/sO4JZTPJ7jOV9tstxSjJIlLFNdrk61A1nvm2uj/cQ0zNkA6+RXQ==",
+  "dgSpecHash": "87IX6txuLCjTsWaI2H6prwcd0r/CucONAafXTYNKLkAFs7BOQ3TW/g9QJEhzRpywyFLyIjX+OGRHlEHcXGvp4Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
+  "projectFilePath": "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jakub\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Jakub\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
