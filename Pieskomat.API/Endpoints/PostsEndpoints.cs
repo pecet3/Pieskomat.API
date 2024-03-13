@@ -1,4 +1,8 @@
-﻿namespace Pieskomat.API.Endpoints;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+
+namespace Pieskomat.API.Endpoints;
 
 public static class PostsEndpoints
 {
@@ -6,10 +10,14 @@ public static class PostsEndpoints
     {
         var group = app.MapGroup("posts").WithParameterValidation();
 
-        group.MapGet("/", () =>
+        group.MapGet("/", async (DataContext dbContext) =>
         {
-            return Results.Ok();
+            await dbContext.Posts.ToListAsync();
         }).RequireAuthorization();
+
+        group.MapGet("/users", async (DataContext dbContext, UserManager<IdentityUser> userManager) =>
+            await userManager.Users.ToListAsync()
+        );
 
         return group;
     }
