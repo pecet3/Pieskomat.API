@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj": {}
+    "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj": {
+    "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
+        "projectUniqueName": "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
         "projectName": "Pieskomat.API",
-        "projectPath": "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
+        "projectPath": "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\Pieskomat.API.csproj",
         "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\obj\\",
+        "outputPath": "c:\\Users\\Jakub\\.NET - projects\\Pieskomat.API\\Pieskomat.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
